@@ -11,7 +11,7 @@
 	<groupId>com.haroon</groupId>
 	<artifactId>spring.cloud.aws.lambda</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>awslamda</name>
+	<name>spring.cloud.aws.lambda</name>
 	<description>Demo project for Spring Cloud Function</description>
 	<build>
 		<plugins>
